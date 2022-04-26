@@ -1,0 +1,4 @@
+baseURL = "https://rxphgui.github.io/"
+languageCode = "en-us"
+title = "Rxphgui"
+theme="hugo-PaperMod"
